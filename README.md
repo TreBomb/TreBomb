@@ -5,7 +5,7 @@
 		<img align="center" src="title.svg" width="800" height="400" alt="I made this!">
 	</a> -->
 	<a href="https://trest.in/">
-		<img align="center" src="Intro.png" width="333.33" height="117.66" alt="I made this!">
+		<img align="center" src="Intro.png" width="800" height="282.4" alt="I made this!">
 	</a>
 	<br>
 	<br>
