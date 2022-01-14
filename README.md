@@ -6,3 +6,6 @@
 	</a>
 	<br>
 </div>
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreBomb&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb)](https://github.com/TreBomb/github-readme-stats)
