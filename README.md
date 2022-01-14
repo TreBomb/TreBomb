@@ -12,7 +12,7 @@
 	<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreBomb&hide_border=true&bg_color=00000000&title_color=2d77dc&text_color=2d77dc&icon_color=2d77dc&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact&hide_border=true&bg_color=00000000&title_color=2d77dc&text_color=2d77dc&icon_color=2d77dc&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact&hide_border=true&bg_color=00000000&title_color=2d77dc&text_color=2d77dc&icon_color=2d77dc)
 	
 </div>
 	
