@@ -8,10 +8,10 @@
 </div>
 	
 <a href="https://trest.in/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TreBomb&hide=contribs,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TreBomb&hide=contribs,prs" height="400" width="400" />
 </a>
 <a href="https://trest.in/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact)](https://github.com/TreBomb/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact)](https://github.com/TreBomb/github-readme-stats" height="400" width="400" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
