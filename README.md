@@ -11,8 +11,8 @@
 	<br>
 	<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreBomb&bg_color=transparent&title_color=2d77dc&text_color=2d77dc&icon_color=2d77dc&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact&card_width=400)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreBomb&bg_color=000000&title_color=2d77dc&text_color=2d77dc&icon_color=2d77dc&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact&bg_color=000000&title_color=2d77dc&text_color=2d77dc&icon_color=2d77dc&card_width=400)
 	
 </div>
 	
