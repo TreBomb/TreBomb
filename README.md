@@ -13,3 +13,10 @@
 <a href="https://trest.in/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact)](https://github.com/TreBomb/github-readme-stats" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TreBomb&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TreBomb&repo=convoychat" />
+</a>
