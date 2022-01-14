@@ -10,4 +10,6 @@
 	
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreBomb&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TreBomb&hide=contribs,prs)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TreBomb&layout=compact)](https://github.com/TreBomb/github-readme-stats)
