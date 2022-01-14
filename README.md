@@ -2,7 +2,7 @@
 	<br>
 	<a href="https://raw.githubusercontent.com/TreBomb/trestin-ishak/main/readme.md">
 	<a href="https://github.com/TreBomb/trestin-ishak/main/title.svg">
-		<img src="title.svg" width="800" height="400" alt="I made this!">
+		<img align="center" src="title.svg" width="800" height="400" alt="I made this!">
 	</a>
 	<br>
 </div>
